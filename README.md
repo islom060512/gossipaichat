@@ -64,3 +64,17 @@ The app uses Google's Gemini 2.0 Flash model for:
 - API calls are made directly to Google's servers
 - No conversation data is stored on our servers
 - Users control their own API keys and data
+
+## AI Usage Log
+
+### Which AI tools you used
+- **Google Gemini 2.0 Flash API**: Used for text analysis, emotion detection, conversation quality evaluation, and generating suggestions.
+- **Cursor AI**: Used for helping with application architecture design, component code generation, writing documentation, and optimizing logic.
+
+### How you used them in your creative process
+- Used the Gemini API for real-time user data analysis within the application.
+- Used Cursor for generating and refactoring code, debugging, writing README files, and improving UX/UI.
+- Applied AI to generate ideas for data visualization and automate routine tasks.
+
+### What percentage of your project involved AI assistance
+- Around **60–70%** of the project was completed with the help of AI tools (code generation, analysis, documentation, design and architecture ideas).
