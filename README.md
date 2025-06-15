@@ -67,14 +67,12 @@ The app uses Google's Gemini 2.0 Flash model for:
 
 ## AI Usage Log
 
-### Which AI tools you used
-- **Google Gemini 2.0 Flash API**: Used for text analysis, emotion detection, conversation quality evaluation, and generating suggestions.
-- **Cursor AI**: Used for helping with application architecture design, component code generation, writing documentation, and optimizing logic.
+### Tools I Used
+- **Google Gemini 2.0 Flash API** — I used this mainly for analyzing text, detecting emotions, evaluating the quality of conversations, and generating helpful suggestions.
+- **Cursor AI** — This was incredibly useful for shaping the app’s architecture, writing and refining component code, debugging, documenting the project, and improving the overall logic.
 
-### How you used them in your creative process
-- Used the Gemini API for real-time user data analysis within the application.
-- Used Cursor for generating and refactoring code, debugging, writing README files, and improving UX/UI.
-- Applied AI to generate ideas for data visualization and automate routine tasks.
+### How AI Helped in My Workflow
+Throughout the project, I integrated the Gemini API to analyze real-time user data directly within the app. Cursor AI was my go-to tool for coding support — whether it was generating new components, cleaning up existing code, or writing documentation like the README. I also leaned on AI for design inspiration, especially when visualizing data and automating repetitive tasks.
 
-### What percentage of your project involved AI assistance
-- Around **60–70%** of the project was completed with the help of AI tools (code generation, analysis, documentation, design and architecture ideas).
+### AI's Role in the Project
+AI played a major role — I'd estimate that around **60–70%** of the project involved assistance from these tools, from development and analysis to documentation and design brainstorming.
